@@ -1,4 +1,6 @@
 /*
+ * Project Euler 0036 
+ *
  * The decimal number, 585 = 10010010012 (binary), is palindromic in both bases.
  *
  * Find the sum of all numbers, less than one million, which are palindromic in

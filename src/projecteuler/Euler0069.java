@@ -1,5 +1,5 @@
 /*
- * Euler0069
+ * Project Euler 0069
  *
  * Euler's Totient function, φ(n) [sometimes called the phi function], is used
  * to determine the number of numbers less than n which are relatively prime to
