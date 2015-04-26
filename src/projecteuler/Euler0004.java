@@ -23,7 +23,7 @@ public class Euler0004 {
                 testNum = i * j;
                 if (testNum <= maxNum) {
                     break;
-                } else if (isPalindrome(testNum)) {
+                } else if (Functions.isPalindrome(testNum)) {
                     maxNum = testNum;
                     break;
                 }
@@ -31,11 +31,5 @@ public class Euler0004 {
         }
         
         System.out.println(String.valueOf(maxNum));
-    }
-
-    public static boolean isPalindrome(int number) {
-        String reverse = 
-                new StringBuilder(String.valueOf(number)).reverse().toString();
-        return String.valueOf(number).equals(reverse);
     }
 }
