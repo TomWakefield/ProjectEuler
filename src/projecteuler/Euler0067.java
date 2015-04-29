@@ -22,13 +22,13 @@
  */
 package projecteuler;
 
-import java.io.*;
-import java.util.Scanner;
-
 /**
  *
  * @author Tom
  */
+import java.io.*;
+import java.util.Scanner;
+
 public class Euler0067
 {
     private static int[][] numbers;

@@ -30,12 +30,13 @@
  */
 package projecteuler;
 
-import java.math.BigInteger;
 
 /**
  *
  * @author Tom
  */
+import java.math.BigInteger;
+
 public class Euler0008 {
     private static final String number = 
             "73167176531330624919225119674426574742355349194934" +

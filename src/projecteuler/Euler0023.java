@@ -21,12 +21,12 @@
  */
 package projecteuler;
 
-import java.util.Arrays;
-
 /**
  *
  * @author Tom
  */
+import java.util.Arrays;
+
 public class Euler0023 {
     
     private static final int LIMIT = 28123;

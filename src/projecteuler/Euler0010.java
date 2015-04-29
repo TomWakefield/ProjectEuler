@@ -4,12 +4,12 @@
  */
 package projecteuler;
 
-import java.math.BigInteger;
-
 /**
  *
  * @author Tom
  */
+import java.math.BigInteger;
+
 public class Euler0010 {
     
     private static final int limit = 2000000;

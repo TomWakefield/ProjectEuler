@@ -13,13 +13,13 @@
  */
 package projecteuler;
 
-import java.util.List;
-import java.util.ArrayList;
-
 /**
  *
  * @author Tom
  */
+import java.util.List;
+import java.util.ArrayList;
+
 public class Euler0024 {
     
     private static double factorial(int input) {

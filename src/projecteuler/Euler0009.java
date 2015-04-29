@@ -10,12 +10,12 @@
  */
 package projecteuler;
 
-import static java.lang.Math.pow;
-
 /**
  *
  * @author Tom
  */
+import static java.lang.Math.pow;
+
 public class Euler0009 {
     
     public static void solve() {

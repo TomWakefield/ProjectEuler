@@ -18,11 +18,12 @@
  */
 package projecteuler;
 
-import java.util.Calendar;
 /**
  *
  * @author Tom
  */
+import java.util.Calendar;
+
 public class Euler0019 {
     
     public static void solve() {

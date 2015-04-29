@@ -6,12 +6,12 @@
  */
 package projecteuler;
 
-import java.math.BigInteger;
-
 /**
  *
  * @author Tom
  */
+import java.math.BigInteger;
+
 public class Euler0016 {
     
     public static void solve() {
