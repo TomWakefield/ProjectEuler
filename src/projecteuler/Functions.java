@@ -34,6 +34,11 @@ public class Functions
         return primes;
     }
     
+    public static Set<Integer> getSetPrimesUpToN(int n) {
+        Set<Integer> primes = new HashSet<>(getPrimesUpToN(n));
+        return primes;
+    }
+    
     public static boolean isPalindrome(int number) {
         String reverse = 
                 new StringBuilder(String.valueOf(number)).reverse().toString();
